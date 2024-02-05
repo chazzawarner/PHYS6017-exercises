@@ -1,2 +1,2 @@
-# PHYS6017-exercises
-Computer Techniques in Physics module (PHYS6017) exercise answers
+# PHYS6017 Exercise Answers
+Here are my answers for the University of Southampton physics module "Computing Techniques in Physics".
